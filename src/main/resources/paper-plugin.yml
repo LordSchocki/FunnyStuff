@@ -1,0 +1,8 @@
+name: FunnyStuff
+version: '1.0-SNAPSHOT'
+main: de.ventilover.funnyStuff.FunnyStuff
+api-version: '1.21'
+load: STARTUP
+authors: [ LordSchocki ]
+description: A plugin for fun stuff
+website: ventilover.de
